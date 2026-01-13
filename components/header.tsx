@@ -48,7 +48,7 @@ export default function Header() {
             href="#"
             className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent hover:opacity-80 transition-opacity duration-300 will-animate"
           >
-            Portfolio
+            M.Mudassar
           </Link>
 
           <div className="hidden md:flex items-center gap-1">
